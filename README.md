@@ -35,13 +35,14 @@
 ---
 
 ## 📊 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivachelvan2002&theme=react-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sivachelvan2002&theme=tokyonight&hide_border=true" />
+
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sivachelvan2002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivachelvan2002&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivachelvan2002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
