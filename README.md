@@ -41,27 +41,5 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sivachelvan2002&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivachelvan2002&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats  
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Sivachelvan2002&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sivachelvan2002/Sivachelvan2002/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 💙 Thanks for visiting my profile!
 ⭐ **Feel free to star my repositories!**
