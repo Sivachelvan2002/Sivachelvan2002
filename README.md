@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/2x4hP0K.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dark-hero.gif" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Sivachelvan</h1>
 <h3 align="center">Frontend Developer from Sri Lanka 🇱🇰</h3>
