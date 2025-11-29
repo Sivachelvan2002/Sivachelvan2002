@@ -1,5 +1,5 @@
+<!-- Banner -->
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dark-hero.gif" width="100%" />
-
 
 <h1 align="center">Hi 👋, I'm Sivachelvan</h1>
 <h3 align="center">Frontend Developer from Sri Lanka 🇱🇰</h3>
@@ -34,21 +34,22 @@
 
 ---
 
-## 📊 GitHub Activity Graph
-<img src="https://streak-stats.demolab.com?user=Sivachelvan2002&theme=tokyonight&hide_border=true" />
-
+## 📊 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivachelvan2002&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivachelvan2002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sivachelvan2002&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivachelvan2002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak Stats  
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Sivachelvan2002&theme=tokyonight&hide_border=true" />
 </p>
